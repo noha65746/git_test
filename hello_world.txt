@@ -1,0 +1,3 @@
+#Odin Project Tasks
+
+This file is used to get familiar with git commands
